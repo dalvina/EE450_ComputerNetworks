@@ -1,0 +1,6 @@
+Name:Jun Yu
+Student ID:4624690236
+
+Compilation and Executing Steps:
+javac STDM.java
+java STDM "input.txt"
